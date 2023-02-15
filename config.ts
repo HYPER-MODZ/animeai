@@ -11,13 +11,13 @@
         bye:
             '💚 Thanks For Using Bot 💚\n' +
             '💚 You can add bot your groups 💚\n' +
-            '💚 [Bot Channel](https://t.me/animebotc) 💚\n' +
+            '💚 [Bot Channel](https://t.me/botkingdombot) 💚\n' +
             'special Thanks For script Owner Imcsu',
-        hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art\n 🌸 Be sure to join the channel @animebotc',
+        hello: 'Hi 👋 Send me a photo to convert it into a 2D anime art\n 🌸 Be sure to join the channel @botkingdombot',
         media: '@Anime\\qq\\Ai\\_bot',
        received: 'Photo has been received please wait 🍀',
     },
-    proxyUrl: 'socks5://HIA:HIA@58.49.230.248:30001',
+    proxyUrl: 'socks5://HIA:HIA@101.6.64.220:7891',
     sendMedia: {
         compared: true,
         single: true,
